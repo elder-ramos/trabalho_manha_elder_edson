@@ -1,0 +1,21 @@
+/*h1,h2,h3,p{
+    color: rgb(158, 125, 209);
+}
+*/
+nav{
+    background-color: rgb(240, 10, 10);
+}
+
+/*body { 
+    background-image: url("/img/background.jpg");
+    opacity: ;
+    
+}   */
+#menu{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 40px;
+    background-color: rgb(117, 111, 111);
+}
